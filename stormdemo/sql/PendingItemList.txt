@@ -1,0 +1,9 @@
+Pending Items list
+
+1.	Intersection of State & Candidate - Kamal
+2.	Implementing and verifying Fault tollrance mechanism - Pranav
+3.	Code -Refactorting - Pranav
+4.	Apr 29th Presentation Deck - Brian
+5.	UI Rendering - Brian
+6.	User Sentiment - TODO
+7.	JUnits - TODO - Low Priority
